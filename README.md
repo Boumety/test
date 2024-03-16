@@ -1,2 +1,2 @@
 # test
-This repositery is useful for you, it is only for testing for me.
+This repositery is not useful for you, it is only for testing for me.
